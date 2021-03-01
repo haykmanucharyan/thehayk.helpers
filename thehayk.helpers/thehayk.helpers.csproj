@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Hayk Manucharyan</Authors>
+    <Company>Hayk Manucharyan</Company>
+    <Description>A lot of useful helpers classes.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>Hayk Manucharyan</Copyright>
+  </PropertyGroup>
+
+</Project>
